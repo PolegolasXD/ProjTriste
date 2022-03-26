@@ -1,5 +1,5 @@
 clear
-echo "Aviso, é recomendado usar o java na versão 11.0.14"
+tput setaf 1; echo " --- Aviso, é recomendado usar o java na versão 11.0.14 --- "
 echo "A sua versão do java é: "
 echo
 java --version
