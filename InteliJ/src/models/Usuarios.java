@@ -1,10 +1,10 @@
 package models;
 
 public class Usuarios {
-    String nome;
-    String email;
-    String senha;
-    String cpf;
+    private String nome;
+    private String email;
+    private String senha;
+    private String cpf;
 
     public String getNome() {
         return nome;
